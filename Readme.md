@@ -27,3 +27,7 @@
 -     "start": "node dist/bin/www.js"
 - },
 - }
+
+# GITHUB CI/CD
+
+- https://velog.io/@phraqe/mymemory-02
